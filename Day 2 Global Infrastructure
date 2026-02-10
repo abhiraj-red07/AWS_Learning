@@ -1,0 +1,11 @@
+What is a region ?
+Region is a cluster of data centres that are present globally.
+
+What is an Availability Zone?
+• Each region has many availability zones(usually 3, min is 3, max is 6)
+• Each availability zone (AZ) is one or more discrete data centers with redundant power, networking, and connectivity
+• They’re separate from each other, so that they’re isolated from disasters
+• They’re connected with high bandwidth, ultra-low latency networking
+
+Why companies use more than one availability zones ?
+Companies use multiple AZs to ensure high availability, fault tolerance, data safety, and zero-downtime operations.
